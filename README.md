@@ -1,5 +1,5 @@
 Twitter Scraping!
-This project allows you to scrape the tweets within the range of date and tweet limit for specific keyword or hastag.
+This project allows you to scrape the tweets within the range of date and tweet limit for specific keyword or hashtag.
 The project is built using 'Python', 'Pandas', Snscrape', 'Streamlit'.
 GUI is created using streamlit.
 Initially a keyword/hastag is entered and the starting and ending date is selected along with the tweet limit
